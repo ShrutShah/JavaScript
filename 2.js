@@ -11,7 +11,7 @@ const b = {
     b:12 
 }
 
-b["a"] = "namita"
+b["a"] = "n"
 console.log(b)
 
 console.log(b.a)
